@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Ammarghaly/Ammarghaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨💻 Front-End Developer specialized in:
+⚛️ React.js | 🎨 CSS3 | 📜 HTML5 | 🟨 JavaScript
+✨ Tailwind CSS | 🅱️ Bootstrap | 🔄 APIs Integration
 
-Here are some ideas to get you started:
+🛠️ Development Tools:
+🔧 Git & GitHub | 🚀 Vite | 📦 NPM/Yarn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Core Focus:
+- Building high-performance interactive interfaces
+- Developing exceptional user experiences (UX)
+- System integration with RESTful APIs
+- Website performance optimization
+
+📬 Open for collaboration on:
+- Open-source projects
+- Complex CSS solutions
+- Reusable React library development
+
+🚀 Passion Statement: _"Continuous learning is the fuel that drives innovation"_
