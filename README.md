@@ -23,3 +23,16 @@ const Ammar = {
   passion: "Building scalable & clean web apps",
   mindset: "Keep learning. Keep shipping 🚀"
 };
+Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman" /> </p>
+📊 GitHub Insights
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=ammarghaly&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarghaly&theme=tokyonight&hide_border=true" /> </p>
+🧩 What I Do
+🏗️ Build modern SPA applications
+🔗 Connect Frontend ↔ Backend APIs
+🎯 Focus on Performance & Clean Code
+🎨 Turn UI into real interactive experiences
+🌐 Connect
+<p align="center"> <a href="https://linkedin.com/in/ammarghaly"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+💭 Quote
+<p align="center"> <i>"Continuous learning is the fuel that drives innovation 🚀"</i> </p> <!-- 🌊 Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/> </p> ```
