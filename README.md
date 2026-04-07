@@ -1,44 +1,25 @@
-<h1 align="center">Hi there, I'm Ammar Ghaly 👋</h1>
-<h3 align="center">Full Stack MEARN Developer | Software Engineering Trainee @ ITI</h3>
+<!-- 🌊 Clean Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Ammar%20Ghaly&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 👋 Typing Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ammar+Ghaly;Full+Stack+MEARN+Developer;Building+Clean+%26+Scalable+Apps;Always+Learning+🚀" />
+</h1>
 
 <p align="center">
-  <i>"Continuous learning is the fuel that drives innovation" 🚀</i>
+  <img src="https://komarev.com/ghpvc/?username=ammarghaly&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently in an intensive **Full Stack MEARN Track** at the Information Technology Institute (**ITI**).
-- 🌱 I have a solid foundation in Front-End (**Angular, React**) and currently expanding my expertise in Back-End (**Node.js, MongoDB**).
-- 👯 I’m looking to collaborate on **open-source projects**, complex web apps, and reusable components.
-- 💬 Ask me about: **JavaScript, UI/UX implementation, and DOM Manipulation.**
+## 🧠 About Me
 
----
-
-### 🛠️ Technical Arsenal
-
-#### 💻 Front-End Development
-`⚛️ React.js` | `🅰️ Angular` | `📜 JavaScript (ES6+)` | `📘 TypeScript` | `🎨 HTML5 & CSS3` | `✨ Tailwind CSS` | `🅱️ Bootstrap` 
-
-#### ⚙️ Back-End & Data (MEARN)
-`🟢 Node.js` | `🚂 Express.js` | `🍃 MongoDB` | `🔄 RESTful APIs Integration`
-
-#### 🔧 Tools & Workflow
-`🐙 Git & GitHub` | `🚀 Vite` | `📦 NPM / Yarn` | `📮 Postman`
-
----
-
-### 📌 Core Focus & Strengths
-- 🏗️ Building high-performance, interactive Single Page Applications (SPAs).
-- 🧠 Translating complex logic into intuitive and exceptional User Experiences (UX).
-- 🔗 End-to-End system integration connecting responsive interfaces with robust APIs.
-- ⚡ Website performance optimization and writing clean, maintainable code.
-
----
-
-### 📬 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/ammarghaly" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+```ts
+const Ammar = {
+  role: "Full Stack MEARN Developer",
+  currentFocus: ["Angular", "Node.js", "MongoDB"],
+  passion: "Building scalable & clean web apps",
+  mindset: "Keep learning. Keep shipping 🚀"
+};
